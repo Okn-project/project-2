@@ -2,9 +2,8 @@
     "version": 3,
     "mappings": "",
     "sources": [
-        "../sass/general.sass",
         "../sass/variables&mixins.sass"
     ],
     "names": [],
-    "file": "general.min.css"
+    "file": "variables&mixins.min.css"
 }
